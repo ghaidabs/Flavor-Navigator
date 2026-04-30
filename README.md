@@ -67,24 +67,24 @@ Flavor Navigator helps food enthusiasts explore international cuisines with an i
                  │
 ┌────────────────▼────────────────────────┐
 │      Search & Ranking Engine            │
-│  ├── TF-IDF Vectorization              │
-│  ├── Cosine Similarity Calculation     │
-│  └── Top-3 Result Selection            │
+│  ├── TF-IDF Vectorization               │
+│  ├── Cosine Similarity Calculation      │
+│  └── Top-3 Result Selection             │
 └────────────────┬────────────────────────┘
                  │
 ┌────────────────▼────────────────────────┐
 │      Text Preprocessing Pipeline        │
-│  ├── Lowercasing                       │
-│  ├── Punctuation Removal               │
-│  ├── Stopword Filtering                │
-│  └── Porter Stemming                   │
+│  ├── Lowercasing                        │
+│  ├── Punctuation Removal                │
+│  ├── Stopword Filtering                 │
+│  └── Porter Stemming                    │
 └────────────────┬────────────────────────┘
                  │
 ┌────────────────▼────────────────────────┐
 │     Fuzzy Matching & Input              │
-│  ├── Misspelling Detection             │
-│  ├── Query Correction                  │
-│  └── CSV Dataset Loading               │
+│  ├── Misspelling Detection              │
+│  ├── Query Correction                   │
+│  └── CSV Dataset Loading                │
 └─────────────────────────────────────────┘
 ```
 
